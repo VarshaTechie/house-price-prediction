@@ -95,9 +95,9 @@ The following steps were performed:
 
 A scatter plot of Actual Prices vs Predicted Prices was generated to evaluate model performance visually.
 
-Add your plot screenshot below:
 
-![Prediction Results](screenshots/prediction_plot.png)
+<img width="554" height="455" alt="image" src="https://github.com/user-attachments/assets/05f38a87-58a9-4757-a3ab-37e310e41ce5" />
+
 
 ---
 
